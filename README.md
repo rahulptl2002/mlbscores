@@ -1,0 +1,3 @@
+# Predicting MLB Games - Analysis of Team Statistics
+
+This project leverages the rich history and detailed statistical records of MLB to apply machine learning and statistical analysis in predicting game outcomes. By focusing on specific team performance metrics such as walks, strikeouts, and hits, the project aims to develop a model capable of forecasting the scores of games based on the competing teams and the game's location. Incorporating visualizations to identify correlations among variables, the study underscores the critical role of data analytics in sports, offering insights into team performances and game outcomes.
